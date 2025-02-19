@@ -2,8 +2,8 @@
     .name = "zigr2ptst",
     .version = "1.0.0",
     .dependencies = .{ .zigr2p = .{
-        .url = "https://github.com/okvdai/zigr2p/archive/refs/tags/0.0.1.tar.gz",
-        .hash = "1220d2427f9b61ce889760a56215dc304843b9a651bff141ebe871a083627abac89a",
+        .url = "https://github.com/okvdai/zigr2p/archive/refs/tags/1.0.0.tar.gz",
+        .hash = "122099e67ed196269a96e5de7cd767b01acb4060bfc07e59df9a50627037343394f2",
     } },
     .paths = .{
         "build.zig",
